@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExercConstraintLayoutCoffee</string>
+    <string name="cappuccino">Cappuccino</string>
+    <string name="_15_minutos">15 minutos</string>
+    <string name="_300_vezes">300 vezes</string>
+    <string name="dose_expresso">Uma simples e perfeitamente extraída dose de espresso misturado com leite fresco e chocolate fazem esta bebida deliciosa.</string>
+    <string name="receita">Uma simples e perfeitamente extraída dose de espresso misturado com leite fresco e chocolate fazem esta bebida deliciosa.</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="dose_espresso">1 dose espresso</string>
+    <string name="ml_leite">100ml leite</string>
+    <string name="colher_de_chocolate">1 colher de chocolate em pó</string>
+</resources>
